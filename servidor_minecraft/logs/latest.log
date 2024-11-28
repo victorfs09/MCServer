@@ -166,3 +166,16 @@
 [18:30:55] [Server thread/WARN]: .Willyprog83008 moved too quickly! -698.807846,12.0,741.10014
 [18:30:59] [Server thread/INFO]: gunter_ruso lost connection: Disconnected
 [18:30:59] [Server thread/INFO]: gunter_ruso left the game
+[18:32:25] [localSession-7-2/INFO]: [Geyser-Spigot] Willyprog83008 has disconnected from the Java server because of Bedrock client disconnected
+[18:32:25] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Willyprog83008 disconnected
+[18:32:25] [Server thread/INFO]: .Willyprog83008 lost connection: Disconnected
+[18:32:25] [Server thread/INFO]: .Willyprog83008 left the game
+[18:34:20] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Willyprog83008
+[18:34:20] [localSession-7-3/INFO]: [Geyser-Spigot] Willyprog83008 (logged in as: Willyprog83008) has connected to the Java server
+[18:34:20] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Willyprog83008 joined (UUID: 00000000-0000-0000-0009-01f61fbaa7ec)
+[18:34:20] [Server thread/INFO]: .Willyprog83008 joined the game
+[18:34:20] [Server thread/INFO]: .Willyprog83008[/127.0.0.1:0] logged in with entity id 889 at ([world]-731.142, 80.0, 793.194)
+[18:34:33] [Server thread/INFO]: .Willyprog83008 has made the advancement [Stone Age]
+[18:35:45] [Server thread/INFO]: .Willyprog83008 has made the advancement [Monster Hunter]
+[18:36:33] [Server thread/INFO]: .Willyprog83008 has made the advancement [Getting an Upgrade]
+[18:39:02] [Server thread/INFO]: .Willyprog83008 has made the advancement [Sweet Dreams]
