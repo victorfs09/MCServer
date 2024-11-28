@@ -185,3 +185,7 @@
 [18:48:41] [Server thread/INFO]: .Willyprog83008 has made the advancement [Acquire Hardware]
 [18:48:56] [Server thread/INFO]: .Willyprog83008 has made the advancement [Isn't It Iron Pick]
 [18:50:13] [Server thread/INFO]: .Willyprog83008 has reached the goal [Zombie Doctor]
+[18:53:06] [localSession-7-3/INFO]: [Geyser-Spigot] Willyprog83008 has disconnected from the Java server because of Bedrock client disconnected
+[18:53:06] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Willyprog83008 disconnected
+[18:53:06] [Server thread/INFO]: .Willyprog83008 lost connection: Disconnected
+[18:53:06] [Server thread/INFO]: .Willyprog83008 left the game

@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1732818745361
+  logout: 1732819986212
   login: 1732818861015
 money: '0'
 last-account-name: .Willyprog83008
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: eb18e82b-05f9-4843-a848-12c0a5ec2b2b
   world-name: world
-  x: -731.142
-  y: 80.0
-  z: 793.194
-  yaw: 46.679168701171875
-  pitch: 13.525558471679688
+  x: -684.93805
+  y: 95.0625
+  z: 245.82805
+  yaw: -87.01836395263672
+  pitch: 36.76725769042969
