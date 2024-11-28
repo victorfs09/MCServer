@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1732652002151
+  logout: 1732818659514
   login: 1732818500566
 money: '0'
 last-account-name: gunter_ruso
 logoutlocation:
   world: eb18e82b-05f9-4843-a848-12c0a5ec2b2b
   world-name: world
-  x: 251.20531643995255
-  y: 64.0
-  z: 137.01432601456904
-  yaw: 110.97772216796875
-  pitch: -4.349998950958252
+  x: -733.5
+  y: 79.0
+  z: 799.5
+  yaw: 85.62773132324219
+  pitch: 17.85000991821289
 lastlocation:
   world: eb18e82b-05f9-4843-a848-12c0a5ec2b2b
   world-name: world
