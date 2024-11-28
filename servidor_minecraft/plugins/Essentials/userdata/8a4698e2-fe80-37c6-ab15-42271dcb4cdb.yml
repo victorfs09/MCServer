@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.127.124.56
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732638572926
+  login: 1732638255871
+money: '0'
+last-account-name: Willyprog8
+logoutlocation:
+  world: eb18e82b-05f9-4843-a848-12c0a5ec2b2b
+  world-name: world
+  x: -734.3854066161085
+  y: 79.875
+  z: 799.3214971786559
+  yaw: 71.9990234375
+  pitch: 24.89999008178711
+lastlocation:
+  world: eb18e82b-05f9-4843-a848-12c0a5ec2b2b
+  world-name: world
+  x: 209.44907954803477
+  y: 78.92159999847412
+  z: -21.47802131891888
+  yaw: 158.10205078125
+  pitch: 40.64989471435547

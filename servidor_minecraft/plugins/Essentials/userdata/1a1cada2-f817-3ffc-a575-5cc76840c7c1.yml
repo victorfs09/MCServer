@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.108.165.97
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732557115399
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732558207995
+  login: 1732556262483
+money: '0'
+last-account-name: Literamborgambor
+logoutlocation:
+  world: eb18e82b-05f9-4843-a848-12c0a5ec2b2b
+  world-name: world
+  x: 334.3636881558999
+  y: -19.0
+  z: 394.6966308055678
+  yaw: 8.2412109375
+  pitch: -0.7499321103096008
+lastlocation:
+  world: eb18e82b-05f9-4843-a848-12c0a5ec2b2b
+  world-name: world
+  x: 334.3636881558999
+  y: -19.0
+  z: 394.6966308055678
+  yaw: 8.2412109375
+  pitch: -0.7499321103096008

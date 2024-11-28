@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.11.247.16
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732651618854
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732652103050
+  login: 1732651392306
+money: '0'
+last-account-name: franhcgamer
+logoutlocation:
+  world: eb18e82b-05f9-4843-a848-12c0a5ec2b2b
+  world-name: world
+  x: -238.87088599958585
+  y: 63.0
+  z: 224.01365786288517
+  yaw: 56.40492630004883
+  pitch: 1.7828713655471802
+lastlocation:
+  world: eb18e82b-05f9-4843-a848-12c0a5ec2b2b
+  world-name: world
+  x: -184.81587079730443
+  y: 64.0
+  z: 219.59806893298838
+  yaw: 74.7010498046875
+  pitch: 11.8886137008667
+homes:
+  home:
+    world: eb18e82b-05f9-4843-a848-12c0a5ec2b2b
+    world-name: world
+    x: -243.02614165730472
+    y: 64.0
+    z: 233.40545739347021
+    yaw: -176.6912841796875
+    pitch: 6.5871806144714355
